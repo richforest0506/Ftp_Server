@@ -1,2 +1,2 @@
 # Ftp_Server
-使用C++ 语言写的Ftp服务端，用户登陆完成了目录显示，上传文件，下载文件，删除文件，重命名文件等主要功能。 项目主要涉及到socket和FTP协议知识
+Using the Ftp server written in C++ language, the user logs in to complete the main functions such as directory display, uploading files, downloading files, deleting files, and renaming files. The project mainly involves socket and FTP protocol knowledge
